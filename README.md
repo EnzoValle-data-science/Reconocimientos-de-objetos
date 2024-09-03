@@ -28,3 +28,7 @@ Desarrollar un modelo de reconocimiento de objetos que permita identificar produ
 | **Resultados MobileNetV2**              |
 |-----------------------------------------|
 | ![Resultados MobileNetV2](./resultados%20mobilenetv2.PNG) |
+
+
+## Duración del proyecto
+El proyecto fue completado en el transcurso de tres semanas. La dedicación de horas-hombre varió según mi disponibilidad a lo largo de este período.
